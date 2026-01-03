@@ -2,7 +2,7 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Status](https://img.shields.io/badge/status-educational-yellow)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey%20%7C%20macos-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
 
 A console-based E-Commerce application built with **Go (Golang)**. This project was developed as a final assignment for the **Algorithm and Programming** course to demonstrate the manual implementation of core computer science concepts without relying on high-level abstractions or databases.
 
