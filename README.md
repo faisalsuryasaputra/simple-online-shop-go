@@ -103,4 +103,5 @@ This project is for educational purposes. Suggestions for optimizing the sorting
 
 ✍️ Author
 Faisal - Initial Work - faisalsuryasaputra
+
 Note: As this is a CLI application using in-memory arrays, all data is lost when the program is terminated.
